@@ -113,7 +113,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="retro"
+          defaultTheme="system"
           enableSystem
           themes={[
             "light",

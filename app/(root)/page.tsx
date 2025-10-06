@@ -242,7 +242,7 @@ export default function IndexPage() {
       </AnimatedSection>
       <AnimatedSection
         direction="left"
-        className="container space-y-6 py-10 my-14"
+        className="container p-0 space-y-6 pt-10 mt-14"
         id="experience"
       >
         <div className="mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">

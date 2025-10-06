@@ -48,7 +48,7 @@ export const skillsUnsorted: skillsInterface[] =[
     description:
       "E-commerce platform for creating and managing online stores with ease.",
     rating: 5,
-    icon: Icons.express,
+    icon: Icons.shopify,
   },
   {
     name: "Javascript",

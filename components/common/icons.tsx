@@ -67,6 +67,7 @@ import {
   SiTypescript,
   SiLaravel,
   SiCplusplus,
+  SiShopify,
   SiThealgorithms,
   
 } from "react-icons/si";
@@ -134,6 +135,7 @@ export const Icons = {
   gmail: SiGmail,
   twitter: SiTwitter,
   linkedin: SiLinkedin,
+  shopify:SiShopify,
   userFill: BiSolidUser,
   work: HiBriefcase,
   gitHub: ({ ...props }: LucideProps) => (
